@@ -1,0 +1,15 @@
+Vehiculo de 4 ruedas
+Vehiculo de 2 ruedas
+Animal domestico, canino
+Animal domestico, felino
+Capital de Argentina
+Capitan de la seleccion argentina de futbol
+Ciudad mas austera del mundo
+10 de la seleccion brasilera de futbol
+Capitan de la seleccion portugesa de futbol
+Lenguaje de programacion creado por Brendan Eich
+Fundador de Apple
+Director tenico de Boca Juniors
+Sistema operativo diseñado por Microsoft
+Sistema operativo, diseñado por Linus Torvalds
+Provincia donde se encuentran las cataratas del Iguazu
